@@ -1,0 +1,15 @@
+D:\Arshlan\C++\DSA\paramaterPassing\main.cpp
+D:\Arshlan\C++\DSA\parameter\main.cpp
+D:\Arshlan\C++\DSA\Arrays\main.cpp
+D:\Arshlan\C++\DSA\structure\main.cpp
+D:\Arshlan\C++\DSA\Structuretopointer\main.cpp
+D:\Arshlan\C++\DSA\recursion4\main.cpp
+D:\Arshlan\C++\DSA\recursionFact\main.cpp
+D:\Arshlan\C++\DSA\structureParameter\main.cpp
+D:\Arshlan\C++\DSA\oops\main.cpp
+D:\Arshlan\C++\DSA\onHeap\main.cpp
+D:\Arshlan\C++\DSA\Recursion1\main.cpp
+D:\Arshlan\C++\DSA\recursion2\main.cpp
+D:\Arshlan\C++\DSA\recursion3\main.cpp
+D:\Arshlan\C++\DSA\recursionPower\main.cpp
+D:\Arshlan\C++\DSA\recursionSumofN\main.cpp
